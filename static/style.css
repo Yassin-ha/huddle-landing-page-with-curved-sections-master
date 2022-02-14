@@ -495,7 +495,7 @@ footer .newsletter input[type="submit"]:hover {
 @media screen and (max-width:376px) {
     footer::before {
         background-image: url(../images/bg-footer-top-mobile.svg);
-        height: 50px;
+        height: 46px;
     }
     .bg {
         flex-direction: column-reverse;
